@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there .
+ 
 <!--
 **MagnusFelinto/MagnusFelinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/magnusfelinto/magnusfelinto/blob/output/github-contribution-grid-snake.svg)
  
 
